@@ -5,5 +5,8 @@ body{
     text-align: center;
     justify-content: center;
     color: rgb(215, 220, 203)
-
+}
+p{
+    color: green;
+    font-weight: bolder;
 }
